@@ -1,0 +1,98 @@
+[
+  {
+    "text": "Can you show me the list of suppliers?",
+    "intent": "ask_suppliers_list",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.33619752526283264
+    }
+  },
+  {
+    "text": "List of suppliers?",
+    "intent": "ask_suppliers_list",
+    "intent_prediction": {
+      "name": "mood_great",
+      "confidence": 0.40728065371513367
+    }
+  },
+  {
+    "text": "Show me the suppliers",
+    "intent": "ask_suppliers_list",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.5328404903411865
+    }
+  },
+  {
+    "text": "Can you show me the list of products?",
+    "intent": "ask_products_list",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.304205060005188
+    }
+  },
+  {
+    "text": "List of products?",
+    "intent": "ask_products_list",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9198007583618164
+    }
+  },
+  {
+    "text": "Show me the products",
+    "intent": "ask_products_list",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.5303695797920227
+    }
+  },
+  {
+    "text": "Can you show me the list of manufacturers?",
+    "intent": "ask_manufacturers_list",
+    "intent_prediction": {
+      "name": "bot_challenge",
+      "confidence": 0.4472234547138214
+    }
+  },
+  {
+    "text": "List of manufacturers?",
+    "intent": "ask_manufacturers_list",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.993532657623291
+    }
+  },
+  {
+    "text": "Show me the manufacturers",
+    "intent": "ask_manufacturers_list",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.425904244184494
+    }
+  },
+  {
+    "text": "Can you show me the list of distributors?",
+    "intent": "ask_distributors_list",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.28638318181037903
+    }
+  },
+  {
+    "text": "List of distributors?",
+    "intent": "ask_distributors_list",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.48391610383987427
+    }
+  },
+  {
+    "text": "Show me the distributors",
+    "intent": "ask_distributors_list",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9173011183738708
+    }
+  }
+]
